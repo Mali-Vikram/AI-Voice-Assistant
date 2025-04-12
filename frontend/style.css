@@ -1,0 +1,10 @@
+*{
+    margin: 0%;
+    padding-left: 0%;
+    background-color: floralwhite;
+    text-decoration-color: black;
+}
+
+h1{
+    display: flex;
+}
